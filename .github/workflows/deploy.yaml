@@ -16,6 +16,7 @@ jobs:
           miniforge-variant: Mambaforge
           use-mamba: true
           python-version: 3.9
+          #activate-environment: prod-environment
       - name: Install dependencies
         shell: bash -l {0}
         run: |
