@@ -1,4 +1,4 @@
-dask[dataframe]
+dask[dataframe,distribuited]
 deltalake
 fsspec
 pyarrow
