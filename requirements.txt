@@ -1,0 +1,4 @@
+dask[dataframe,distribuited]
+deltalake
+fsspec
+pyarrow
