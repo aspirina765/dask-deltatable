@@ -15,7 +15,7 @@ jobs:
         with:
           miniforge-variant: Mambaforge
           use-mamba: true
-          python-version: 3.9
+          python-version: 3.11 # 3.9
       - name: Install dependencies
         shell: bash -l {0}
         run: |
