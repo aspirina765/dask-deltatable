@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/github/aspirina765/dask-deltatable/graph/badge.svg?token=V68G7CXXHG)](https://codecov.io/github/aspirina765/dask-deltatable)
 ## Dask-DeltaTable
 
 Reading and writing to Delta Lake using Dask engine.
